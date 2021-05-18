@@ -15,7 +15,7 @@ https://609e4765c4b4a8a8c26b50b0--songyiyoutube.netlify.app
 ## 기술스택
 이 프로젝트에 사용된 기술은 다음과 같습니다.
 - React.js
-- React.Hooks
+- React.Hooks 
 - YouTube APIs
 - PostCSS
 
